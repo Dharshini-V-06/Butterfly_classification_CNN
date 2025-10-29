@@ -61,6 +61,3 @@ It applies transfer learning with MobileNetV2 for efficient feature extraction a
 
 ---
 
----
-
-Would you like me to make this even shorter (a 5-section summary suitable for GitHub repo top)?
